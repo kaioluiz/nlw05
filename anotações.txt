@@ -1,0 +1,14 @@
+yarn init -y : Gerar o arquivo package.json que o arquivo de gerenciamento do projeto.
+
+yarn add express: Adicionando express ao projeto
+
+yarn add @types/express -D : separando tipagens do express e setando como tipagem de desenvolvimento
+
+yarn add typescript -D : Instalando o typescript como dependencia de desenvolvimento.
+
+yarn tsc --init : Cria arquio de configuração do typescript.
+
+Definir strict como false no arquivo de configuração do typescript para que a verificação de erros não fique ativa durante a digitação do código
+
+yarn add ts-node-dev -D : Tratador para o node entender algumas expressões como "import" e "export".
+

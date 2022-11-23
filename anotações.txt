@@ -12,3 +12,5 @@ Definir strict como false no arquivo de configuração do typescript para que a 
 
 yarn add ts-node-dev -D : Tratador para o node entender algumas expressões como "import" e "export".
 
+--------------------------------------------------------------------------------------------------------
+
